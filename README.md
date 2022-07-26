@@ -30,6 +30,13 @@ https://anypoint.mulesoft.com/
 }
 ```
 
+Tools
+- http://jsonplaceholder.typicode.com/
+- https://web.postman.co/
+- https://docs.mulesoft.com/
+- https://developer.mulesoft.com/tutorials-and-howtos/apache-kafka-connector/getting-started-apache-kafka-connector/
+- https://developer.mulesoft.com/
+
 
 
 
