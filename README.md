@@ -20,13 +20,16 @@ https://anypoint.mulesoft.com/
 ### Apply Loan - CloudHub
 - GET http://studentloan-skqp.us-e2.cloudhub.io/loan/1
 - POST https://arj21cwbhl1zqnf-dbords.adb.us-ashburn-1.oraclecloudapps.com/ords/pocmule/loan/
-Code Blocks (Preformatted text): 
+
+```sh
 {
   "mail": "juan.paz.h@gmail.com",
   "loanvalue": 9000,
   "status": "Idle",
   "msm": "Money transfer"
 }
+```
+
 
 
 
