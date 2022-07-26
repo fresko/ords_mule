@@ -36,6 +36,8 @@ Tools
 - https://docs.mulesoft.com/
 - https://developer.mulesoft.com/tutorials-and-howtos/apache-kafka-connector/getting-started-apache-kafka-connector/
 - https://developer.mulesoft.com/
+- https://docs.oracle.com/en/database/oracle/oracle-rest-data-services/22.2/orddg/developing-REST-applications.html#GUID-A1CD111F-724B-4E91-8202-FA899EE521F1
+- https://online.visual-paradigm.com/ (Design Architecture)
 
 
 
