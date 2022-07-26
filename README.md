@@ -43,6 +43,9 @@ Tools
 - https://docs.oracle.com/en/database/oracle/oracle-rest-data-services/22.2/orddg/developing-REST-applications.html#GUID-A1CD111F-724B-4E91-8202-FA899EE521F1
 - https://online.visual-paradigm.com/ (Design Architecture)
 
+That’s All Folks   for Now ![image](https://user-images.githubusercontent.com/2261353/181019144-1612bb44-f647-44a6-838a-25cc9d559843.png) 
+:-)
+
 
 
 
